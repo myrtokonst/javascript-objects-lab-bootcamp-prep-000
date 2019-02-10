@@ -8,4 +8,4 @@ function deleteFromObjectByKey(object, key) { delete object.key
   return Object.assign
 }
 function destructivelyDeleteFromObjectByKey(object, key) { delete object.key 
-return obj}
+return object}
